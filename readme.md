@@ -13,6 +13,6 @@ https://www.programando.org/blog/2020/01/19/desafio-capicuas.html
 
 Una versión inutil solo para probar algo con SwiftUI
 
-![Demo](capicua.gif)
+![Demo](capicua-gif.gif)
 
 
